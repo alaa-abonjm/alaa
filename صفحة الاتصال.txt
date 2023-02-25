@@ -1,0 +1,79 @@
+<div class="ContactArea">
+    <div class="HeaderArea" style="background-image: url(https://www.kolpaper.com/wp-content/uploads/2021/03/4K-Black-Widow-Movie-Wallpaper.jpg)"></div>
+    <div class="ContactAreaPostLabel">
+        <a href="#" class="ContactAreaPostHome">ÇáÑÆíÓíÉ</a>
+        <i class="fa fa-angle-double-left"></i>
+        <span class="ContactAreaPostHome">ŞÓã ÇáÔßÇæí</span>
+    </div>
+    <div class="ContactAreaPost">
+        <img src="https://www.kolpaper.com/wp-content/uploads/2021/03/4K-Black-Widow-Movie-Wallpaper.jpg" class="ContactAreaImage"/>
+        <div class="ContactAreaTitle">
+            <span>ŞÓã ÇáÔßÇæí</span>
+            <h2 class="ContactAreaH2">ÊÚáíãÇÊ ÃÏÇÑÉ ÇáãæÇŞÚ İí ÍÇáÉ ÍÏæË ãÔßáÉ!</h2>
+            <time class="ContactAreaTime">21.05.2021</time>
+        </div>
+        <p class="ContactAreaP">ãÌáÉ <strong>Mononton</strong> åí ãÌáÉ ÊŞÏã áßã ÇáÇİáÇã ÚäÏåÇ ŞÈá ãÇ ÊÚÑÖ ÈÔÇÔÉ ÇáÚÑÖ ÇáÓíäãÇÆíå äŞÏã ÇáãÓáÓáÇÊ æÇáÇİáÇã æÇáÚÑæÖ ÇáÊáİÒíæäíÉ æÇáãÕÇÑÚÉ æÇáÚÇÈ ÇáßãÈíæÊÑ æÇáÚÇÈ ÇáÇäÏÑæíÏ æÈÑÇãÌ ááßãÈíæÊÑ æÇáÇäÏÑæíÏ ãÚ ÇáÊäæÚ æÇáÚÏíÏ ãä ÇáÇŞÓÇã ÇáÊí ÊÓåá Úáíß ÇáæÕæá Çáí ãÇ ÊÍÈ æÊÔÊåí æÊÎÕíÕ ãÍÑß ÈÍË ÇÍÊÑÇİí íãßäß ãä ÇáÈÍË Úä ãÇ ÊÍÈ Èßá ÓåæáÉ æİáÊÑ áİáÊÑÉ ÇáÇŞÓÇã áíÖíŞ Úáíß äØÇŞ ÇáÈÍË áÓåæáå ÇáÊÕİÍ Èßá íÓÑ.</p>
+        <p class="ContactAreaP">ÃÊÈÚ ÇáÊÚáíãÇÊ ÇáæÇÑÏå ÇÏäÇå ŞÈá ÇáÊÍÏË Çáí ÇÏÇÑÉ ÇáãæŞÚ</p>
+        <div class="ContactAreaList">
+            <span class="ContactAreaItem">* ÃÓÊÎÏã ãÍÑßÇÊ ÇáÈÍË ááÈÍË Úä İíáã Çæ ãÓáÓá</span>
+            <span class="ContactAreaItem">* áÇ ÊØáÈ ÑİÚ İíáã Çæ ãÓáÓá ŞÈá ÇáÊÃßÏ ãä æÌæÏå Úáí ÇáãæŞÚ</span>
+            <span class="ContactAreaItem">* İí ÍÇáÉ ÍÏæË ãÔßáÉ Çæ Êáİ İí ÇÍÏí ÑæÇÈØ ÇáÓíÑİÑÇÊ íãßäß ãÑÇÓáÊäÇ İæÑÇ</span>
+            <span class="ContactAreaItem">* ÚÇÏÉ ãÇ íÊã ÇáÑÏ Úáíßã ÎáÇá ÏŞÇÆŞ ãÚÏæÏå</span>
+        </div>
+        <p class="ContactAreaP">äÍÈ äæÖÍ áÍÖÑÇÊßã ÈÃä ÇáÇİáÇã ÚáíåÇ ÍŞæŞ äÔÑ İÚÔÇä ßÏÇ ÇÍäÇ ÈäÒá ÈÏá ÇáÓíÑİÑ 7 æÊáİ ÇáÓíÑİÑÇÊ ÈÓÈÈ ÍŞæŞ ÇáØÈÚ æÇáäÔÑ æÈíÊã ÇÚÇÏÉ ÇáäÔÑ ÎáÇá ÓÇÚÇÊ Şáíáå İí ÍÇáÉ ãæÇÌåÉ Çí ÓíÑİÑ ÊÇáİ íãßäß ãÑÇÓáÊäÇ ÈÇÓã Çáİíáã Çæ áíäß ÇáÕİÍÉ Çáí İíåÇ ÇáãÔßáÉ ÌæÏÉ ÇáãæŞÚ ãä ÌæÏÊßã æãÑÇÓáÊßã áÊØæíÑ ÇáãæŞÚ ÔßÑÇ áßã</p>
+        <div class="ContactAreaKeywords">
+            <span class="KeywordsItem">ãÔÇåÏÉ æÊÍãíá</span>
+            <span>ÇİáÇã</span>
+            <span>ÃİáÇã ãÊÑÌãÉ</span>
+            <span>ØáÈÇÊ ÇáÇİáÇã</span>
+            <span>ÃİáÇã ãÏÈáÌÉ</span>
+            <span>ÓíÑİÑÇÊ ãÔÇåÏÉ</span>
+            <span>ÑíÇÖÉ</span>
+            <span>ÇáÚÇÈ</span>
+            <span>ÈÑÇãÌ</span>
+        </div>
+    </div>
+    <div class="ContactAreaFoote">
+        <div class="ContactAreaForm">
+        <form name="contact-form">
+<div class="formcolumn1">
+<input id="ContactForm1_contact-form-name" name="name" placeholder="ÇáÃÓã" size="30" type="text" value="" />
+</div>
+<div class="formcolumn2">
+<input id="ContactForm1_contact-form-email" name="email" placeholder="ÇáÈÑíÏ ÇáÃáßÊÑæäí ÇáÃáßÊÑæäí" size="30" type="text" value="" />
+</div>
+<div class="formcolumn3">
+<textarea cols="25" id="ContactForm1_contact-form-email-message" name="email-message" placeholder="ÇáÑÓÇáÉ" rows="7"></textarea>
+</div>
+<div class="formcolumn4">
+<input class="ripplelink" id="ContactForm1_contact-form-submit" type="button" value="ÅÑÓÇá" />
+</div>
+<div style="max-width: 100%; text-align: center; width: 100%;">
+<div id="ContactForm1_contact-form-error-message">
+</div>
+<div id="ContactForm1_contact-form-success-message">
+</div>
+</div>
+</form>
+<script src="https://www.blogger.com/static/v1/widgets/2271878333-widgets.js" type="text/javascript"></script>
+<style scoped="" type="text/css">
+#ContactForm1,#comments,.post-body form.paypalpay br{display:none}
+.post-body form.paypalpay{margin:0;text-align:center}
+#ContactForm1_contact-form-name,#ContactForm1_contact-form-email{font-family:'Quicksand',sans-serif;display:inline-block;width:100%;height:auto;margin:10px auto;padding:14px;background:#fff;color:#222;border:1px solid rgba(0,0,0,0.08)}
+#ContactForm1_contact-form-email-message{font-family:'Google Sans',sans-serif;width:100%;height:250px;margin:10px auto;padding:14px;background:#fff;color:#222;border:1px solid rgba(0,0,0,0.08)}
+#ContactForm1_contact-form-name:focus,#ContactForm1_contact-form-email:focus,#ContactForm1_contact-form-email-message:focus{background:#fff;outline:none;border-color:rgba(0,0,0,0.18)}
+#ContactForm1_contact-form-submit{font-family:'Quicksand',sans-serif;background:#fff;color:#5f6368;font-size:16px;width:161px;height:45px;float:left;padding:0 0 0 20px;margin:10px 0 3px 5px;cursor:pointer;border:none;border-radius:24px;box-shadow:0 1px 2px 0 rgba(60,64,67,0.302),0 1px 3px 1px rgba(60,64,67,0.149);transition:box-shadow .08s linear,min-width .15s cubic-bezier(0.4,0.0,0.2,1)}
+.formcolumn4{position:relative}
+.formcolumn4:before{background-image:url(https://2.bp.blogspot.com/-nkmaptT0VoA/WumFePAy9DI/AAAAAAAAGlM/8lA5aRi2E-okumpdikjQancIKDjYaGNqwCLcBGAs/s1600/mailme.png);background-position:center;background-repeat:no-repeat;background-size:20px;content:'';display:block;height:63px;width:32px;position:absolute;z-index:1;left:15px;top:0}
+#ContactForm1_contact-form-submit:hover{background:#fafafb;box-shadow:0 1px 3px 0 rgba(60,64,67,0.302),0 4px 8px 3px rgba(60,64,67,0.149)}
+#ContactForm1_contact-form-error-message,#ContactForm1_contact-form-success-message{margin-top:35px}
+form{color:#888}
+.formcolumn1,.formcolumn2{float:left;width:50%}
+.formcolumn1,.formcolumn2{margin:0 0 10px 0;padding:0 10px 0 0}
+.formcolumn2{padding:0 0 0 10px}
+@media only screen and (max-width:768px){.formcolumn1,.formcolumn2{width:100%;padding:0}}
+</style>
+
+    </div>
+    </div>
+</div>

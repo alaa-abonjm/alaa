@@ -1,0 +1,424 @@
+<yourdesigns>
+    <ul class="SLiderHoverInfo" style="display: none;">
+        <h2>Ã„Ì⁄ „Ê«”„ ÊÕ·ﬁ«  „”·”· «·«‰„Ì Castlevania ﬂ«„· „ —Ã„</h2>
+        <li><span>«· ’‰Ì›</span> „”·”·«  √‰„Ì</li>
+        <li>
+            <span>«·‰Ê⁄</span> «ﬂ‘‰ , ≈‰Ì„Ì‘‰ , „€«„—…</li>
+        <li><span>«·„œ…</span>23 œﬁÌﬁ…</li>
+    </ul>
+    <div class="SlideDataBlock" style="display: none;">
+        <ul>
+            <li class="SlideYearBlock">2021</li>
+            <li class="SlideQualityBlock">HD</li>
+            <li class="SlideEpisodes"><strong>„Ê«”„ </strong> ﬂ«„·…</li>
+        </ul>
+    </div>
+    <div class="SlideIMDBBlock" style="display: none;">
+        <span class="SlideIMDBText">IMDB</span>
+        <em class="SlideImdbNummber">8.2</em>
+    </div>
+    <div class="SingleContext">
+        <div class="BGCover" style="background-image: url(https://wallpaperaccess.com/full/1308122.jpg);"></div>
+        <div class="BGBlur"></div>
+        <div class="PosterHolder">
+            <div class="PosterInner">
+                <img src="https://i.redd.it/zk6mye3jbdt61.jpg" style="padding: 0;">
+            </div>
+            <div class="PosterImdb">
+                <span class="PosterImdbName">IMDB</span>
+                <span class="PosterImdbRatingNumber">43,892</span>
+                <span class="PosterImdbNumber">8.2</span>
+            </div>
+        </div>
+        <div class="SingleLeft">
+            <div class="Breadcrumbs">
+                <ul class="BreadcrumbsFilters">
+                    <li>
+                        <a href="https://monontonofficial.blogspot.com/">
+                            <span>«·—∆Ì”Ì…</span>
+                        </a>
+                    </li>
+                    <i class="fa fa-angle-left"></i>
+                    <li>
+                        <a href="#">
+                            <span>«·„”·”·« </span>
+                        </a>
+                    </li>
+                    <i class="fa fa-angle-left"></i>
+                    <li>
+                        <a href="#">
+                            <span>„”·”·«  √‰„Ì</span>
+                        </a>
+                    </li>
+                    <i class="fa fa-angle-left"></i>
+                    <li>
+                        <span>Ã„Ì⁄ „Ê«”„ ÊÕ·ﬁ«  „”·”· «·«‰„Ì Castlevania ﬂ«„· „ —Ã„</span>
+                    </li>
+                </ul>
+                <div class="ErrorButton">
+                    <a href="https://monontonofficial.blogspot.com/p/blog-page.html">
+                        <i class="fa fa-bug"></i>  »·Ì€ √œ«—… «·„Êﬁ⁄ ··„‘«ﬂ·</a>
+                </div>
+            </div>
+            <div class="rateAndTitle notRateFound">
+                <div class="TitleArea">
+                    <h1>Ã„Ì⁄ „Ê«”„ ÊÕ·ﬁ«  „”·”· «·«‰„Ì Castlevania ﬂ«„· „ —Ã„</h1>
+                </div>
+            </div>
+            <div class="InfoAndWatch">
+                <div class="StoryContent">
+                    <div class="Story">’Ì«œ „’«’ œ„«¡ Ìﬁ« · ·≈‰ﬁ«– „œÌ‰… „Õ«’—… „‰ ÃÌ‘ „‰ „Œ·Êﬁ«  «·⁄«·„ «·¬Œ— «· Ì Ì”Ìÿ— ⁄·ÌÂ« œ—«ﬂÊ·«.</div>
+                </div>
+                <div class="RightI">
+                    <ul class="InfoPoster">
+                        <li>
+                            <span>
+                                <i class="fa fa-play"></i>«· ’‰Ì› :
+                            </span>
+                            <a href="#">„”·”·«  √‰„Ì</a>
+                        </li>
+                        <li>
+                            <span>
+                                <i class="fa fa-desktop"></i>«·ÃÊœ… :
+
+                            </span>
+                            <a href="https://monontonofficial.blogspot.com/search/label/HD">HD</a>
+                        </li>
+                        <li>
+                            <span>
+                                <i class="fa fa-film"></i>«·‰Ê⁄ :
+                            </span>
+                            <a href="#">≈‰Ì„Ì‘‰</a>
+                            <a href="https://monontonofficial.blogspot.com/search/label/%D8%A7%D9%83%D8%B4%D9%86">√ﬂ‘‰</a>
+                            <a href="https://monontonofficial.blogspot.com/search/label/%D9%85%D8%BA%D8%A7%D9%85%D8%B1%D8%A9">„€«„—« </a>
+                        </li>
+                        <li>
+                            <span>
+                                <i class="fa fa-calendar"></i>”‰… «·≈’œ«— :
+                            </span>
+                            <a href="https://monontonofficial.blogspot.com/search/label/2021">2021</a>
+                        </li>
+                        <li>
+                            <span>
+                                <i class="fa fa-clock-o"></i>œÊ·… :
+                            </span>
+                            <a href="https://monontonofficial.blogspot.com/search/label/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9">«·Ê·«Ì«  «·„ Õœ… «·√„—ÌﬂÌ…</a>
+                        </li>
+                        <li>
+                            <span>
+                                <i class="fa fa-language"></i>«··€… :
+                            </span>
+                            <a href="https://monontonofficial.blogspot.com/search/label/%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9">«·√‰Ã·Ì“Ì…</a>
+                        </li>
+                        <li>
+                            <span>
+                                <i class="fa fa-globe"></i>„œ… «·⁄—÷ :
+                            </span>
+                            <a href="#">23 œﬁÌﬁ…</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="Cast">
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Richard Armitage</span>
+                            <p>Trevor Belmont</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Alejandra Reynoso</span>
+                            <p>Sypha Belnades</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>James Callis</span>
+                            <p>Alucard</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Theo James</span>
+                            <p>Hector</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Adetokumboh M'Cormack</span>
+                            <p>Isaac</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Jaime Murray</span>
+                            <p>Carmilla</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Bill Nighy</span>
+                            <p>Saint Germain</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Graham McTavish</span>
+                            <p>Dracula</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Emily Swallow</span>
+                            <p>Lisa Tepes</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Jessica Brown Findlay</span>
+                            <p>Lenore</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="TabsList">
+                <div class="container">
+                    <ul>
+                        <li data-tab="info" class="Hoverable selected">
+                            <i class="ion fa fa-list"></i> «·„Ê«”„ Ê«·Õ·ﬁ« </li>
+                    </ul>
+                </div>
+            </div>
+    <div class="TabsContents">
+                <div class="Container">
+                    <div class="SeriesSection">
+                        <div class="SeasonsList">
+                            <span class="SeasonsItem tablinks active" onclick="openCity(event, 'Season-01')">«·„Ê”„ «·«Ê·</span>
+                            <span class="SeasonsItem tablinks" onclick="openCity(event, 'Season-02')">«·„Ê”„ «·À«‰Ì</span>
+                            <span class="SeasonsItem tablinks" onclick="openCity(event, 'Season-03')">«·„Ê”„ «·À«·À</span>
+                            <span class="SeasonsItem tablinks" onclick="openCity(event, 'Season-04')">«·„Ê”„ «·—«»⁄</span>
+                        </div>
+                        <div class="EpisodesList tabcontent" id="Season-01" style="display: block;">
+                            <div class="" style="flex: 1;flex-wrap: wrap;display: flex;">
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>1</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>2</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>3</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>4</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                            </div>  
+                        </div>
+                        <div class="EpisodesList tabcontent" id="Season-02" style="display: none;">
+                            <div class="" style="flex: 1;flex-wrap: wrap;display: flex;">
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>1</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>2</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>3</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>4</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>5</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>6</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>7</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>8</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                            </div>  
+                        </div>
+                        <div class="EpisodesList tabcontent" id="Season-03" style="display: none;">
+                            <div class="" style="flex: 1;flex-wrap: wrap;display: flex;">
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>1</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>2</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>3</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>4</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>5</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>6</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>7</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>8</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>9</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>10</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                            </div> 
+                        </div>
+                        <div class="EpisodesList tabcontent" id="Season-04" style="display: none;">
+                            <div class="" style="flex: 1;flex-wrap: wrap;display: flex;">
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>1</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>2</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>3</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>4</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>5</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>6</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>7</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>8</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>9</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                                <div class="EpisodesItem">
+                                    <a href="#" class="EpisodesLink">
+                                        <em>10</em>
+                                        <span>Õ·ﬁ…</span>
+                                    </a>
+                                </div>
+                            </div> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+</yourdesigns>

@@ -1,0 +1,217 @@
+<yourdesigns>
+    <ul class="SLiderHoverInfo" style="display: none;">
+        <h2>„‘«Âœ… «‰„Ì Castlevania „Ê”„ 4 «·Õ·ﬁ… 10 Ê«·«ŒÌ—…</h2>
+        <li>
+            <span>«· ’‰Ì›</span> «·„”·”·« 
+        </li>
+        <li>
+            <span>«·‰Ê⁄</span> ≈‰Ì„Ì‘‰ √ﬂ‘‰ „€«„—…
+        </li>
+        <li>
+            <span>«·„œ…</span>23 œﬁÌﬁ…
+        </li>
+    </ul>
+    <div class="SlideDataBlock" style="display: none;">
+        <ul>
+            <li class="SlideYearBlock">2021</li>
+            <li class="SlideQualityBlock">HD</li>
+            <li class="SlideEpisodes"><strong>Õ·ﬁ… </strong> <span style="font-size: 25px;">10</span></li>
+        </ul>
+    </div>
+    <div class="SlideIMDBBlock" style="display: none;">
+        <span class="SlideIMDBText">IMDB</span>
+        <em class="SlideImdbNummber">8.2</em>
+    </div>
+    <div class="SingleContext">
+        <div class="BGCover" style="background-image: url(https://wallpaperaccess.com/full/1308122.jpg);"></div>
+        <div class="BGBlur"></div>
+        <div class="PosterHolder">
+            <div class="PosterInner">
+                <div class="SlideEpisodes"><strong>Õ·ﬁ… </strong> <span style="font-size: 25px;">10</span></div>
+                <img src="https://i.redd.it/zk6mye3jbdt61.jpg" style="padding: 0;">
+                <a href="https://monontonofficial.blogspot.com/2021/05/castlevania.html">«·„Ê«”„ Ê«·Õ·ﬁ« </a>
+            </div>
+            <div class="PosterImdb">
+                <span class="PosterImdbName">IMDB</span>
+                <span class="PosterImdbRatingNumber">43,892</span>
+                <span class="PosterImdbNumber">8.2</span>
+            </div>
+        </div>
+        <div class="SingleLeft">
+            <div class="Breadcrumbs">
+                <ul class="BreadcrumbsFilters">
+                    <li>
+                        <a href="https://www.d4fun.tk/">
+                            <span>«·—∆Ì”Ì…</span>
+                        </a>
+                    </li>
+                    <i class="fa fa-angle-left"></i>
+                    <li>
+                        <a href="https://www.d4fun.tk/search/label/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA">
+                            <span>„”·”·« </span>
+                        </a>
+                    </li>
+                    <i class="fa fa-angle-left"></i>
+                    <li>
+                        <a href="https://www.d4fun.tk/search/label/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA%20%D8%A7%D9%86%D9%85%D9%8A">
+                            <span>„”·”·«  √‰„Ì</span>
+                        </a>
+                    </li>
+                    <i class="fa fa-angle-left"></i>
+                    <li>
+                        <span>„‘«Âœ… «‰„Ì Castlevania „Ê”„ 4 «·Õ·ﬁ… 10 Ê«·«ŒÌ—…</span>
+                    </li>
+                </ul>
+                <div class="ErrorButton">
+                    <a href="https://www.d4fun.tk/p/blog-page.html">
+                        <i class="fa fa-bug"></i>  »·Ì€ √œ«—… «·„Êﬁ⁄ ··„‘«ﬂ·</a>
+                </div>
+            </div>
+            <div class="rateAndTitle notRateFound">
+                <div class="TitleArea">
+                    <h1>„‘«Âœ… «‰„Ì Castlevania „Ê”„ 4 «·Õ·ﬁ… 10 Ê«·«ŒÌ—…</h1>
+                </div>
+            </div>
+            <div class="InfoAndWatch">
+                <div class="StoryContent">
+                    <div class="Story">Ì” ﬁ—¯ "»Ì·„Ê‰ " Ê"”«Ì›«" ›Ì ﬁ—Ì…  ⁄Ã¯ »«·√”—«— «·„‘ƒÊ„…° ÊÌ⁄·¯„ "√·Êﬂ«—œ" ‘Œ’Ì‰ „‰ „⁄Ã»ÌÂ° ›Ì„« Ì‰ÿ·ﬁ "√Ì“«ﬂ" ··»ÕÀ ⁄‰ „ﬂ«‰ ÊÃÊœ "ÂÌﬂ Ê—".</div>
+                </div>
+                <div class="RightI">
+                    <ul class="InfoPoster">
+                        <li>
+                            <span>
+                                <i class="fa fa-play"></i>«· ’‰Ì› :
+                            </span>
+                            <a href="https://www.d4fun.tk/search/label/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA%20%D8%A7%D9%86%D9%85%D9%8A">„”·”·«  √‰„Ì</a>
+                        </li>
+                        <li>
+                            <span>
+                                <i class="fa fa-desktop"></i>«·ÃÊœ… :
+
+                            </span>
+                            <a href="https://www.d4fun.tk/search/label/HD">HD</a>
+                        </li>
+                        <li>
+                            <span>
+                                <i class="fa fa-film"></i>«·‰Ê⁄ :
+                            </span>
+                            <a href="https://www.d4fun.tk/search/label/%D8%A5%D9%86%D9%8A%D9%85%D9%8A%D8%B4%D9%86">≈‰Ì„Ì‘‰</a>
+                            <a href="https://www.d4fun.tk/search/label/%D8%A7%D9%83%D8%B4%D9%86">√ﬂ‘‰</a>
+                            <a href="https://www.d4fun.tk/search/label/%D9%85%D8%BA%D8%A7%D9%85%D8%B1%D8%A9">„€«„—« </a>
+                        </li>
+                        <li>
+                            <span>
+                                <i class="fa fa-calendar"></i>”‰… «·≈’œ«— :
+                            </span>
+                            <a href="https://www.d4fun.tk/search/label/2021">2021</a>
+                        </li>
+                        <li>
+                            <span>
+                                <i class="fa fa-clock-o"></i>œÊ·… :
+                            </span>
+                            <a href="https://www.d4fun.tk/search/label/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9">«·Ê·«Ì«  «·„ Õœ… «·√„—ÌﬂÌ…</a>
+                        </li>
+                        <li>
+                            <span>
+                                <i class="fa fa-language"></i>«··€… :
+                            </span>
+                            <a href="https://www.d4fun.tk/search/label/%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9">«·√‰Ã·Ì“Ì…</a>
+                        </li>
+                        <li>
+                            <span>
+                                <i class="fa fa-globe"></i>„œ… «·⁄—÷ :
+                            </span>
+                            <a href="#">23 œﬁÌﬁ…</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="Cast">
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Richard Armitage</span>
+                            <p>Trevor Belmont</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Alejandra Reynoso</span>
+                            <p>Sypha Belnades</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>James Callis</span>
+                            <p>Alucard</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Theo James</span>
+                            <p>Hector</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Adetokumboh M'Cormack</span>
+                            <p>Isaac</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Jaime Murray</span>
+                            <p>Carmilla</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Bill Nighy</span>
+                            <p>Saint Germain</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Graham McTavish</span>
+                            <p>Dracula</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Emily Swallow</span>
+                            <p>Lisa Tepes</p>
+                        </a>
+                    </div>
+                    <div class="Actor">
+                        <a href="#" class="ActorLink">
+                            <i class="fa fa-user"></i>
+                            <span>Jessica Brown Findlay</span>
+                            <p>Lenore</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="WatchButtons">
+                <a href="https://www.d4fun.tk/p/castlevania-4-10.html" class="watchBTn hoverAfter">
+                    <span>
+                        <i class="fa fa-video"></i>
+                        <em>„‘«Âœ… «·«‰</em>
+                    </span>
+                </a>
+                <a href="https://www.d4fun.tk/p/castlevania-4-10.html" class="downloadBTn hoverAfter">
+                    <span>
+                        <i class="fa fa-cloud-download"></i>
+                        <em> Õ„Ì· «·«‰</em>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</yourdesigns>
